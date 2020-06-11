@@ -1,4 +1,5 @@
 Überaschungslied
-blödes Lied 1
-blödes Lied 2
-blödes Lied 3
+gutes Lied 1
+gutes Lied 2
+gutes Lied 3
+
